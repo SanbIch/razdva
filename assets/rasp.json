@@ -1,0 +1,74 @@
+{
+    "1-18": {
+        "lessons": {
+            "monday": {
+                "up": {
+                    "first": {
+                        "empty": false,
+                        "devide": false,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    "second": {
+                        "empty": false,
+                        "devide": false,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    "third": {
+                        "empty": false,
+                        "devide": false,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    "fourth": {
+                        "empty": false,
+                        "devide": false,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    "fifth": {
+                        "empty": false,
+                        "devide": false,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }
+                },
+                "down": {
+                    "first": {
+                        
+    
+                    },
+                    "second": {},
+                    "third": {},
+                    "fourth": {},
+                    "fifth": {}
+                }
+                
+            }
+        }
+    },
+    "3-18": {
+
+    }
+}
