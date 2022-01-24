@@ -117,4 +117,5 @@ body {
 }
 .lessons {
   padding: 0 5px;
+}
 </style>
