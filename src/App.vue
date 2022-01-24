@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
   <Header @currentGroup="setCurGroup"></Header>
   <section class="selectDay">
     <button
@@ -19,10 +20,19 @@
 <script>
 import Header from "./components/Header.vue";
 import Lessons from "./components/Lessons.vue";
+=======
+  <img alt="Vue logo" src="./assets/logo.png" />
+  <HelloWorld msg="Welcome to Your Vue.js App" />
+</template>
+
+<script>
+import HelloWorld from "./components/HelloWorld.vue";
+>>>>>>> f879bb9da0c55ac2e52b6254c956843e76a3f727
 
 export default {
   name: "App",
   components: {
+<<<<<<< HEAD
     Header,
     Lessons,
   },
@@ -73,11 +83,15 @@ export default {
     setCurGroup: function (group) {
       this.currentGroup = group.group;
     },
+=======
+    HelloWorld,
+>>>>>>> f879bb9da0c55ac2e52b6254c956843e76a3f727
   },
 };
 </script>
 
 <style lang="scss">
+<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 body {
   margin: 0;
@@ -117,5 +131,14 @@ body {
 }
 .lessons {
   padding: 0 5px;
+=======
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+>>>>>>> f879bb9da0c55ac2e52b6254c956843e76a3f727
 }
 </style>

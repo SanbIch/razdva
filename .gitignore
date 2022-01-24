@@ -21,6 +21,7 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 node_modules/@babel/code-frame/LICENSE
 node_modules/@babel/code-frame/package.json
 node_modules/@babel/code-frame/README.md
@@ -10017,3 +10018,5 @@ node_modules/is-buffer/README.md
 node_modules/is-buffer/test/basic.js
 node_modules/is-callable/.editorconfig
 node_modules/is-callable/.eslintignore
+=======
+>>>>>>> f879bb9da0c55ac2e52b6254c956843e76a3f727
