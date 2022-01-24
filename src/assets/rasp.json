@@ -1,0 +1,853 @@
+{
+    "1-18": {
+        "lessons": {
+            "up" : {
+                "1": [
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 1,
+                        "info": {
+                            "name": "Социальная экология",
+                            "type": "лекция",
+                            "teacher": "Мандрыка О.Н.",
+                            "aud": "101 К4"
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 2,
+                        "info": {
+                            "name": "Социальная экология",
+                            "type": "практика",
+                            "teacher": "Мандрыка О.Н.",
+                            "aud": "408 К4"
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 3,
+                        "info": {
+                            "name": "ПРОСТРАНСТВЕННЫЙ АНАЛИЗ ДАННЫХ В ЭКОЛОГИИ И ПРИРОДОПОЛЬЗОВАНИИ",
+                            "type": "лекция",
+                            "teacher": "Лекомцев П.В.",
+                            "aud": "102 К4"
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }
+                ],
+                "2": [
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "ГИДРОХИМИЯ",
+                            "type": "лекция",
+                            "teacher": "Костецкая Г.А.",
+                            "aud": "309 К4"
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 1,
+                        "info": {
+                            "name": "ГЕОЭКОЛОГИЯ",
+                            "type": "лекция",
+                            "teacher": "Рижия Е.Я.",
+                            "aud": "309 К4"
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 2,
+                        "info": {
+                            "name": "Геоэкология",
+                            "type": "практика",
+                            "teacher": "Рижия Е.Я.",
+                            "aud": "К4"
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 3,
+                        "info": {
+                            "name": "Геоэкология",
+                            "type": "практика",
+                            "teacher": "Рижия Е.Я.",
+                            "aud": "К4"
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }
+                ],
+                "3": [
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 1,
+                        "info": {
+                            "name": "НОРМИРОВАНИЕ И СНИЖЕНИЕ ЗАГРЯЗНЕНИЯ ОКРУЖАЮЩЕЙ СРЕДЫ",
+                            "type": "лекция",
+                            "teacher": "Примак Е.А.",
+                            "aud": "309 К4"
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 2,
+                        "info": {
+                            "name": "Нормирование и снижение загрязнения окружающей среды",
+                            "type": "практика",
+                            "teacher": "Примак Е.А.",
+                            "aud": "406 К4"
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": true,
+                        "time": 3,
+                        "info": {
+                            "a": {
+                                "name": " ",
+                                "type": " ",
+                                "teacher": " ",
+                                "aud": " "
+                            },
+                            "b": {
+                                "name": "Пространственный анализ данных в экологии и природопользовании",
+                                "type": "лабораторная работа",
+                                "teacher": "Бабин А.В.",
+                                "aud": "301.1 К4"
+                            }
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": true,
+                        "time": 4,
+                        "info": {
+                            "a": {
+                                "name": "",
+                                "type": "",
+                                "teacher": "",
+                                "aud": ""
+                            },
+                            "b": {
+                                "name": "Пространственный анализ данных в экологии и природопользовании",
+                                "type": "лабораторная работа",
+                                "teacher": "Бабин А.В.",
+                                "aud": "301.1 К4"
+                            }
+                        }
+                    }
+             
+                ],
+                "4": [
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 1,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 2,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 3,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }             
+                ],
+                "5": [
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "multiple": true,
+                        "time": 1,
+                        "info": [
+                            {
+                                "name": "УСТОЙЧИВОЕ УПРАВЛЕНИЕ ЭКОСИСТЕМАМИ",
+                                "type": "лекция",
+                                "teacher": "Ершова А.А.",
+                                "aud": "401 К4",
+                                "optionally": true
+                            },
+                            {
+                                "name": "МЕТОДЫ ПОЛЕВЫХ ЭКОЛОГИЧЕСКИХ ИССЛЕДОВАНИЙ",
+                                "type": "лекция",
+                                "teacher": "Степанова А.Б.",
+                                "aud": "309 К4",
+                                "optionally": true
+                            },
+                            {
+                                "name": "ЭКОЛОГИЧЕСКОЕ СОСТОЯНИЕ ВОД СУШИ",
+                                "type": "лекция",
+                                "teacher": "Мансуров М.М.",
+                                "aud": "406 К4",
+                                "optionally": true
+                            }
+                        ]
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "multiple": true,
+                        "time": 2,
+                        "info": [
+                            {
+                                "name": "Экологическое состояние вод суши",
+                                "type": "практика",
+                                "teacher": "Мансуров М.М.",
+                                "aud": "406 К4",
+                                "optionally": true
+                            },
+                            {
+                                "name": "УПРАВЛЕНИЕ ПРИРОДОПОЛЬЗОВАНИЕМ",
+                                "type": "лекция",
+                                "teacher": "Макеев В.М.",
+                                "aud": "217 К4",
+                                "optionally": true
+                            },
+                            {
+                                "name": "Устойчивое управление экосистемами",
+                                "type": "практика",
+                                "teacher": "Ершова А.А.",
+                                "aud": "408 К4",
+                                "optionally": true
+                            }
+                        ]
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 3,
+                        "multiple": true,
+                        "info": [
+                            {
+                                "name": "Гидрометеорологический мониторинг полярных регионов",
+                                "type": "практика",
+                                "teacher": "Лисовский А.Я.",
+                                "aud": "203 К4",
+                                "optionally": true
+                            },
+                            {
+                                "name": "Обращение с отходами",
+                                "type": "практика",
+                                "teacher": "Тыркин И.А.",
+                                "aud": "309 К4",
+                                "optionally": true
+                            },
+                            {
+                                "name": "Экология полярных регионов",
+                                "type": "практика",
+                                "teacher": "Матюшков С.С.",
+                                "aud": "101 К4",
+                                "optionally": true
+                            }
+                        ]
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }
+                ],
+                "6": [
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "multiple": true,
+                        "time": 1,
+                        "info": [
+                            {
+                                "name": "Методы полевых экологических исследований",
+                                "type": "практика",
+                                "teacher": "Степанова А.Б.",
+                                "aud": "201 К1",
+                                "optionally": true
+                            }
+                        ]
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 2,
+                        "info": {
+                            "name": "ГЕОЭКОЛОГИЧЕСКАЯ ИНФОРМАЦИЯ: АНАЛИЗ И МЕТОДЫ ОБРАБОТКИ",
+                            "type": "лекция",
+                            "teacher": "Канухина Ю.А.",
+                            "aud": "217 К4"
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 3,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }
+             
+                ]
+               },
+            "down" : {
+                "1": [
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "Социальная экология",
+                            "type": "практика",
+                            "teacher": "Мандрыка О.Н.",
+                            "aud": "306 К4"
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 1,
+                        "info": {
+                            "name": "Гидрохимия",
+                            "type": "практика",
+                            "teacher": "Позднякова А.И.",
+                            "aud": "408 К4"
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": true,
+                        "time": 2,
+                        "info": {
+                            "a": {
+                                "name": "Геоэкологическая информация: анализ и методы обработки",
+                                "type": "лабораторная работа",
+                                "teacher": "Колесникова Е.В.",
+                                "aud": "205.1 К"
+                            },
+                            "b": {
+                                "name": "Геоэкологическая информация: анализ и методы обработки",
+                                "type": "лабораторная работа",
+                                "teacher": "Урусова Е.С.",
+                                "aud": "407 К4"
+                            }
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": true,
+                        "time": 3,
+                        "info": {
+                            "a": {
+                                "name": "Геоэкологическая информация: анализ и методы обработки",
+                                "type": "лабораторная работа",
+                                "teacher": "Колесникова Е.В.",
+                                "aud": "205.1 К"
+                            },
+                            "b": {
+                                "name": "Геоэкологическая информация: анализ и методы обработки",
+                                "type": "лабораторная работа",
+                                "teacher": "Урусова Е.С.",
+                                "aud": "407 К4"
+                            }
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }
+                ],
+                "2": [
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 1,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 2,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 3,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }
+                ],
+                "3": [
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 1,
+                        "info": {
+                            "name": "НОРМИРОВАНИЕ И СНИЖЕНИЕ ЗАГРЯЗНЕНИЯ ОКРУЖАЮЩЕЙ СРЕДЫ",
+                            "type": "лекция",
+                            "teacher": "Примак Е.А.",
+                            "aud": "309 К4"
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": true,
+                        "time": 2,
+                        "info": {
+                            "a": {
+                                "name": "Пространственный анализ данных в экологии и природопользовании",
+                                "type": "лабораторная работа",
+                                "teacher": "Бабин А.В.",
+                                "aud": "301.1 К4"
+                            },
+                            "b": {
+                                "name": "",
+                                "type": "",
+                                "teacher": "",
+                                "aud": ""
+                            }
+                        }
+                    },
+                    {
+                        "empty": false,
+                        "double": true,
+                        "time": 3,
+                        "info": {
+                            "a": {
+                                "name": "Пространственный анализ данных в экологии и природопользовании",
+                                "type": "лабораторная работа",
+                                "teacher": "Бабин А.В.",
+                                "aud": "301.1 К4"
+                            },
+                            "b": {
+                                "name": "",
+                                "type": "",
+                                "teacher": "",
+                                "aud": ""
+                            }
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }
+             
+                ],
+                "4": [
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 1,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 2,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 3,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }             
+                ],
+                "5": [
+                    {
+                        "empty": false,
+                        "double": false,
+                        "multiple": true,
+                        "time": 0,
+                        "info": [
+                            {
+                                "name": "УПРАВЛЕНИЕ ПРИРОДОПОЛЬЗОВАНИЕМ",
+                                "type": "лекция",
+                                "teacher": "Макеев В.М.",
+                                "aud": "306 К4",
+                                "optionally": true
+                            }
+                        ]
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "multiple": true,
+                        "time": 1,
+                        "info": [
+                            {
+                                "name": "ЭКОЛОГИЯ ПОЛЯРНЫХ РЕГИОНОВ",
+                                "type": "лекция",
+                                "teacher": "Макеев В.М.",
+                                "aud": "401 К4",
+                                "optionally": true
+                            }
+                        ]
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "multiple": true,
+                        "time": 2,
+                        "info": [
+                            {
+                                "name": "УСТОЙЧИВОЕ УПРАВЛЕНИЕ ЭКОСИСТЕМАМИ",
+                                "type": "лекция",
+                                "teacher": "Ершова А.А.",
+                                "aud": "217 К4",
+                                "optionally": true
+                            },
+                            {
+                                "name": "МЕТОДЫ ПОЛЕВЫХ ЭКОЛОГИЧЕСКИХ ИССЛЕДОВАНИЙ",
+                                "type": "лекция",
+                                "teacher": "Степанова А.Б.",
+                                "aud": "401 К4",
+                                "optionally": true
+                            },
+                            {
+                                "name": "ЭКОЛОГИЧЕСКОЕ СОСТОЯНИЕ ВОД СУШИ",
+                                "type": "лекция",
+                                "teacher": "Мансуров М.М.",
+                                "aud": "309 К4",
+                                "optionally": true
+                            }
+                        ]
+                    },
+                    {
+                        "empty": false,
+                        "double": false,
+                        "time": 3,
+                        "multiple": true,
+                        "info": [
+                            {
+                                "name": "Гидрометеорологический мониторинг полярных регионов",
+                                "type": "практика",
+                                "teacher": "Лисовский А.Я.",
+                                "aud": "203 К4",
+                                "optionally": true
+                            },
+                            {
+                                "name": "Обращение с отходами",
+                                "type": "практика",
+                                "teacher": "Тыркин И.А.",
+                                "aud": "309 К4",
+                                "optionally": true
+                            },
+                            {
+                                "name": "Экология полярных регионов",
+                                "type": "практика",
+                                "teacher": "Матюшков С.С.",
+                                "aud": "307 К4",
+                                "optionally": true
+                            }
+                        ]
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }
+                ],
+                "6": [
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 0,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 1,
+                        "info": [
+                            {
+                                "name": "",
+                                "type": "",
+                                "teacher": "",
+                                "aud": ""
+                            }
+                        ]
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 2,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 3,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    },
+                    {
+                        "empty": true,
+                        "double": false,
+                        "time": 4,
+                        "info": {
+                            "name": "",
+                            "type": "",
+                            "teacher": "",
+                            "aud": ""
+                        }
+                    }
+             
+                ]
+               }
+        }
+    },
+    "3-18": {
+        
+    }
+}
